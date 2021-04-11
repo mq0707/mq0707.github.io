@@ -1,7 +1,7 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  首页: /
+  目录: /archives
 
 # Default post title
 default_post_title: Untitled
